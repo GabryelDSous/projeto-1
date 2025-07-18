@@ -1,2 +1,3 @@
-const m = 'Mercado pago' 
+const m = 'Mercado pago'
+const d = "devedor"
 console.log(m) 
